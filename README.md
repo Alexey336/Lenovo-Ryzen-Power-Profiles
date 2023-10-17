@@ -1,0 +1,1 @@
+# Lenovo-Ryzen-Power-Profiles
